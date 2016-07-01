@@ -10,7 +10,7 @@
                </button>
                <!-- Branding Image -->
                <a class="navbar-brand" href="{{ url('/') }}">
-                   RecipeOrganizer
+                   RecipeOrganizer-
                </a>
            </div>
            <div class="collapse navbar-collapse" id="app-navbar-collapse">
